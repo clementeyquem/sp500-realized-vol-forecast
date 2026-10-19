@@ -1,0 +1,18 @@
+# Private working notes — never commit, never push.
+# These are French working notes, not part of the public deliverable.
+CLAUDE.md
+JOURNAL.md
+docs/archive/
+
+# Virtual environment
+.venv/
+
+# Regenerated artifacts of the former notebooks (modules 1-5).
+# Figures under results/ are committed on purpose: the README displays them.
+module*_results.png
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
