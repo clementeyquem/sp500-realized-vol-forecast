@@ -16,3 +16,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ipynb_checkpoints/
+
+# Intermediate pickles used between evaluation steps
+results/_*.pkl
